@@ -23,6 +23,7 @@
 
 * [🦸‍♂️ Creating Desights Profile](guides/creating-desights-profile.md)
 * [📥 Submission to the Challenge](guides/submission-to-the-challenge.md)
+* [💲 Setting up Payment Wallet address](guides/setting-up-payment-wallet-address.md)
 
 ## Miscellaneous
 
