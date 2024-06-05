@@ -3,21 +3,31 @@
 * [About](README.md)
 * [Introduction](introduction.md)
 
-## Solutions
+## Products
 
-* [Challenges](solutions/challenges.md)
-* [Achievements](solutions/achievements.md)
+* [🏆 Competitions](products/competitions.md)
+* [🛒 Market](products/market.md)
+* [📂 Workspaces](products/workspaces.md)
+* [⌨️ Terminal](products/terminal.md)
 
-## Core Concepts
+## Concepts
 
-* [Entity](core-concepts/entity.md)
-* [Profile](core-concepts/profile.md)
-* [Controllers](core-concepts/controllers.md)
+* [💲 CrowdFund](concepts/crowdfund.md)
+* [🤝 Collaborate](concepts/collaborate.md)
+* [🔐 Co-own](concepts/co-own.md)
+
+## Core Components
+
+* [🧩 Challenge](core-components/challenge.md)
+* [💰 Funding Pool](core-components/funding-pool.md)
+* [🪙 Asset](core-components/asset.md)
+* [👥 Funders](core-components/funders.md)
+* [💻 Solvers](core-components/solvers.md)
+* [📜 Ownership Split](core-components/ownership-split.md)
 
 ## The Protocol
 
-* [Architecture](the-protocol/architecture.md)
-* [Roles & Access Control](the-protocol/roles-and-access-control.md)
+* [⛓️ Architecture](the-protocol/architecture.md)
 
 ## Guides
 
