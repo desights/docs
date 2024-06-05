@@ -6,7 +6,7 @@
 ## Products
 
 * [🏆 Competitions](products/competitions.md)
-* [🛒 Market](products/market.md)
+* [⚖️ Market](products/market.md)
 * [📂 Workspaces](products/workspaces.md)
 * [⌨️ Terminal](products/terminal.md)
 
@@ -27,8 +27,8 @@
 
 ## The Protocol
 
-* [⛓️ Architecture](the-protocol/architecture.md)
-* [Smart Contracts](the-protocol/smart-contracts.md)
+* [🏗️ Architecture](the-protocol/architecture.md)
+* [⛓️ Smart Contracts](the-protocol/smart-contracts.md)
 
 ## Guides
 
