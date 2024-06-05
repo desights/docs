@@ -28,6 +28,7 @@
 ## The Protocol
 
 * [⛓️ Architecture](the-protocol/architecture.md)
+* [Smart Contracts](the-protocol/smart-contracts.md)
 
 ## Guides
 
