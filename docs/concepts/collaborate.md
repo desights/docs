@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/collaborate-cover.png
+cover: ../.gitbook/assets/collaborate.png
 coverY: 0
 ---
 

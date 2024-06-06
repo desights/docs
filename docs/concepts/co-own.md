@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/coown-cover.png
+cover: ../.gitbook/assets/co-own.png
 coverY: 0
 ---
 

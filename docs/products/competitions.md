@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/competitions-cover.png
+cover: ../.gitbook/assets/competitions (1).png
 coverY: 0
 ---
 

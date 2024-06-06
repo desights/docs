@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/crowdfund-cover.png
+cover: ../.gitbook/assets/crowdfund.png
 coverY: 0
 ---
 
