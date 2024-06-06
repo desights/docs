@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Desights](README.md)
 * [Introduction](introduction.md)
 
 ## Products
