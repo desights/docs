@@ -6,3 +6,8 @@ coverY: 0
 
 # ⚖️ Market
 
+
+
+{% hint style="info" %}
+Market is under development and launching in Q3 2024
+{% endhint %}

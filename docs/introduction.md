@@ -1,5 +1,5 @@
 # Introduction
 
 {% hint style="info" %}
-Coming soon
+Content Coming soon
 {% endhint %}

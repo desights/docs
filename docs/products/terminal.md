@@ -6,3 +6,8 @@ coverY: 0
 
 # ⌨️ Terminal
 
+
+
+{% hint style="info" %}
+Terminal is under development and launching in Q4 2024
+{% endhint %}
