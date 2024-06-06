@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/competitions-cover.png
 coverY: 0
 ---
 
