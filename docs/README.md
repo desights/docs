@@ -8,11 +8,11 @@ description: These resources will help you in your Desights Zero to Hero Journey
 
 ## Discover Desights
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Desights Concepts</strong></td><td>Learn about what CrowdFund, Collaboration and Coownership means at Desights.<br></td><td></td></tr><tr><td><strong>Desights Protocol</strong></td><td>Dive deep into the inner workings of Desights Protocol.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Desights Concepts</strong></td><td>Learn about what CrowdFund, Collaboration and Coownership means at Desights.<br></td><td></td><td><a href=".gitbook/assets/concepts (2).png">concepts (2).png</a></td></tr><tr><td><strong>Desights Protocol</strong></td><td>Dive deep into the inner workings of Desights Protocol.</td><td></td><td><a href=".gitbook/assets/protocol (1).png">protocol (1).png</a></td></tr></tbody></table>
 
 ## Something for Everyone
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Data Scientists</strong></td><td></td><td></td></tr><tr><td><strong>App Developers</strong></td><td></td><td></td></tr><tr><td><strong>AI Creators</strong></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Data Scientists</strong></td><td></td><td></td><td><a href=".gitbook/assets/data-scientists.png">data-scientists.png</a></td></tr><tr><td><strong>App Developers</strong></td><td></td><td></td><td><a href=".gitbook/assets/developers.png">developers.png</a></td></tr><tr><td><strong>AI Creators</strong></td><td></td><td></td><td><a href=".gitbook/assets/ai-creators.png">ai-creators.png</a></td></tr></tbody></table>
 
 ## Desights  Ecosystem
 
