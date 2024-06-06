@@ -1,3 +1,8 @@
+---
+cover: broken-reference
+coverY: 0
+---
+
 # 🏆 Competitions
 
 ## About&#x20;
