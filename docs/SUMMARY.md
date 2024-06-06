@@ -24,6 +24,7 @@
 * [👥 Funders](core-components/funders.md)
 * [💻 Solvers](core-components/solvers.md)
 * [📜 Ownership Split](core-components/ownership-split.md)
+* [👬 Team](core-components/team.md)
 
 ## The Protocol
 
