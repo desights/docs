@@ -1,3 +1,4 @@
 # 👬 Team
 
-<figure><img src="../.gitbook/assets/Team and Asset ownership.png" alt="" width="375"><figcaption><p>Team and Asset Relationship</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Team and Asset ownership.png" alt=""><figcaption><p>Team and Asset Ownership and Monetisation </p></figcaption></figure>
+
