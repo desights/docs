@@ -16,5 +16,5 @@ description: Some use cases that can be built using Desights Protocol
 
 and many more...
 
-If you are building on Desights, we would like to know more. Reach out to us at [buidl@desights.ai](mailto:someone@yoursite.com?subject=Hey%20there%21%20I%20am%20building%20on%20Desights)
+If you are building on Desights, we would like to know more. Reach out to us at [buidl@desights.ai](mailto:buidl@desights.ai?subject=Hey%20there%21%20I%20am%20building%20on%20Desights)
 
