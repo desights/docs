@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Desights](README.md)
+* [👋 Welcome to Desights](README.md)
 * [Introduction](introduction.md)
+* [👷 Use Cases](use-cases.md)
 
 ## Products
 
