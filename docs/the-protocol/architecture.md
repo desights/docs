@@ -28,7 +28,7 @@ User Profile at the core is a [Universal Profile](https://docs.lukso.tech/standa
 
 ### Team Profile
 
-Just like User Profile, there is Team Profile. Key difference between User Profile and Team Profile is, Team Profile is co-owned and managed by multiple User Profiles. Although the underlying structure remains same, Team Profiles are much more powerful. They allow multiple owners and manages their [Ownership structure](../core-components/ownership-split.md) within a [Team](../core-components/teams.md). All [Assets](../core-components/asset.md) created by this Team shares the same Ownership Structure as defined within Team Profile. Team Profile establishes the [Collaborative](../concepts/collaborate.md) aspect of Desights Protocol.&#x20;
+Just like User Profile, there is Team Profile. Key difference between User Profile and Team Profile is, Team Profile is co-owned and managed by multiple User Profiles. Although the underlying structure remains same, Team Profiles are much more powerful. They allow multiple owners and manages their [Ownership structure](../core-components/ownership-split.md) within a [Team](../core-components/team.md). All [Assets](../core-components/asset.md) created by this Team shares the same Ownership Structure as defined within Team Profile. Team Profile establishes the [Collaborative](../concepts/collaborate.md) aspect of Desights Protocol.&#x20;
 
 
 

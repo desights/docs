@@ -22,7 +22,7 @@
 * [🧩 Challenge](core-components/challenge.md)
 * [📃 Registry](core-components/registry.md)
 * [💰 Funding Pool](core-components/funding-pool.md)
-* [👬 Teams](core-components/teams.md)
+* [👬 Teams](core-components/team.md)
 * [🪙 Asset](core-components/asset.md)
 * [👥 Funders](core-components/funders.md)
 * [💻 Solvers](core-components/solvers.md)
