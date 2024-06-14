@@ -1,4 +1,5 @@
 ---
+description: Learn what CrowdFunding inefficiencies Desights Protocol solves
 cover: ../.gitbook/assets/crowdfund.png
 coverY: 0
 ---
