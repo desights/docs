@@ -9,5 +9,5 @@ coverY: 0
 
 
 {% hint style="info" %}
-Workspaces are under development and launching in Q4 2024
+Workspaces are under development and launching in Q1 2025
 {% endhint %}

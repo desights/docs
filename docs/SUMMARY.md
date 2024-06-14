@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Desights](README.md)
-* [Introduction](introduction.md)
+* [🙂 Introduction](introduction.md)
 * [👷 Use Cases](use-cases.md)
 
 ## Products
@@ -20,8 +20,9 @@
 ## Core Components
 
 * [🧩 Challenge](core-components/challenge.md)
+* [📃 Registry](core-components/registry.md)
 * [💰 Funding Pool](core-components/funding-pool.md)
-* [👬 Team](core-components/team.md)
+* [👬 Teams](core-components/teams.md)
 * [🪙 Asset](core-components/asset.md)
 * [👥 Funders](core-components/funders.md)
 * [💻 Solvers](core-components/solvers.md)
