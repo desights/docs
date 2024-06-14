@@ -46,8 +46,3 @@ coverY: 0
 
 These issues highlight the need for a more integrated, transparent, and supportive collaborative environment for AI innovators. Desights aims to address these challenges by developing a decentralised toolkit for Collaborative AI development to create a more effective and equitable platform for AI innovators.
 
-
-
-{% hint style="info" %}
-Content Coming Soon
-{% endhint %}
