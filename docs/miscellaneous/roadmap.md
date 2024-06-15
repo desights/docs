@@ -6,5 +6,16 @@ description: >-
 
 # Roadmap
 
-<figure><img src="../.gitbook/assets/Roadmap.png" alt="" width="563"><figcaption></figcaption></figure>
+{% tabs %}
+{% tab title="2023" %}
+<figure><img src="../.gitbook/assets/Roadmap-2023.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="2024" %}
+<figure><img src="../.gitbook/assets/Roadmap-2024.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="2025" %}
+<figure><img src="../.gitbook/assets/Roadmap-2025.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
