@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/co-own.png
 coverY: 0
 ---
 
-# 🔐 Co-own
+# 🔐 Co-ownership
 
 ### Issues with Co-ownership and Monetisation in the AI Ecosystem
 
@@ -94,4 +94,18 @@ coverY: 0
 
 ***
 
-These issues underscore the need for a more transparent, equitable, and efficient approach to co-ownership and monetization within the AI ecosystem. Desights aims to address these challenges creating a decentralized toolkit for Co-ownership and Monetisation to promote inclusivity and fairness in AI co-ownership and revenue sharing.
+These issues underscore the need for a more transparent, equitable, and efficient approach to co-ownership and monetization within the AI ecosystem. Desights  addresses these challenges by creating a decentralized toolkit for Co-ownership and Monetisation to promote inclusivity and fairness in AI co-ownership and revenue sharing.
+
+Desights components encompassing Co-ownership concept are as below -
+
+{% content-ref url="../core-components/asset.md" %}
+[asset.md](../core-components/asset.md)
+{% endcontent-ref %}
+
+{% content-ref url="../core-components/ownership-split.md" %}
+[ownership-split.md](../core-components/ownership-split.md)
+{% endcontent-ref %}
+
+{% content-ref url="../products/market.md" %}
+[market.md](../products/market.md)
+{% endcontent-ref %}

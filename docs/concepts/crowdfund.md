@@ -80,8 +80,6 @@ coverY: 0
 
 </details>
 
-
-
 <details>
 
 <summary><strong>Regulatory and Compliance Challenges</strong></summary>
@@ -98,5 +96,18 @@ coverY: 0
 
 ***
 
-These issues highlight the need for a decentralized, transparent, and community-driven approach to crowdfunding in the AI ecosystem. Desights aims to address these challenges by developing decentralised Crowdfunding toolkit to create a more equitable, efficient, and collaborative platform for AI innovation funding.
+These issues highlight the need for a decentralized, transparent, and community-driven approach to crowdfunding in the AI ecosystem. Desights is developing a decentralised Crowdfunding toolkit to solve most of these problems.\
+\
+Below Desights Components that encompasses Crowdfunding -
 
+{% content-ref url="../core-components/funding-pool.md" %}
+[funding-pool.md](../core-components/funding-pool.md)
+{% endcontent-ref %}
+
+{% content-ref url="../core-components/funders.md" %}
+[funders.md](../core-components/funders.md)
+{% endcontent-ref %}
+
+{% content-ref url="../core-components/challenge.md" %}
+[challenge.md](../core-components/challenge.md)
+{% endcontent-ref %}
