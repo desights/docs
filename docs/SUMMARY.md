@@ -15,7 +15,7 @@
 
 * [💲 CrowdFund](concepts/crowdfund.md)
 * [🤝 Collaborate](concepts/collaborate.md)
-* [🔐 Co-ownership](concepts/co-ownership.md)
+* [🔐 Co-ownership](concepts/co-own.md)
 
 ## Core Components
 

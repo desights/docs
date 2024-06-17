@@ -2,6 +2,10 @@
 
 
 
+{% hint style="danger" %}
+Desights Protocol Smart Contracts are underdevelopment and are scheduled to be launched in Q3 2024
+{% endhint %}
+
 <details>
 
 <summary>Challenge</summary>
