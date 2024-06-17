@@ -19,14 +19,14 @@
 
 ## Core Components
 
-* [🧩 Challenge](core-components/challenge.md)
 * [📃 Registry](core-components/registry.md)
-* [💰 Funding Pool](core-components/funding-pool.md)
-* [👬 Teams](core-components/teams.md)
 * [🪙 Asset](core-components/asset.md)
+* [🧩 Challenge](core-components/challenge.md)
 * [👥 Funders](core-components/funders.md)
-* [💻 Solvers](core-components/solvers.md)
 * [📜 Ownership Split](core-components/ownership-split.md)
+* [💰 Funding Pool](core-components/funding-pool.md)
+* [💻 Solvers](core-components/solvers.md)
+* [👬 Teams](core-components/teams.md)
 
 ## The Protocol
 
