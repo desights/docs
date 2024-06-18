@@ -6,7 +6,7 @@ description: Let's dive deep into Desights Protocol architecture
 
 Before we begin discussing about how the architecture will evolve to accomodate our vision, let's first discuss state of current architecture
 
-## Current Architecture
+## Current Dapp Architecture
 
 <figure><img src="../.gitbook/assets/Current-architecture.png" alt="" width="375"><figcaption><p>Current Architecture of Desights (LIVE)</p></figcaption></figure>
 
